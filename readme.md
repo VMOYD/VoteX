@@ -34,7 +34,6 @@ D:.
 │── Admin_Dashboard.php (Admin Panel)
 │── Add_Candidate.php (Add Candidate)
 │── Connect.php (Database Connection)
-│── ritik.sql (Database Schema)
 │── voting_database.sql (Voting Data)
 │── contact.php (Contact Page)
 │── logout.php (Logout Functionality)
